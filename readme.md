@@ -2,10 +2,12 @@
 
 ##Sobre o site 
 
+<<<<<<< HEAD
 Este repositório serve apenas como teste para o exercicios de 
 utilização do Git em conjunto com o GitHub.
 
 ##Autores 
 
-Desenvolvido pela Zuleika
+Desenvolvido pela Zuleika e pelo pafúncio
+
 
