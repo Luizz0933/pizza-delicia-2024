@@ -1,7 +1,14 @@
 Exemplo de historico de versionamento 
 
 - insirindo linha inicial (commit 1) 
+
 - insirindo nova linha (commit 2) 
 - insirindo nova linha (commit 3) 
-- insirindo nova linha (commit 4) 
-- insirindo nova linha (commit 5) 
+- insirindo nova linha (commit 4 - Esse não existe mais) 
+- insirindo nova linha (commit 5 - Esse não existe mais ) 
+- insirindo nova linha (commit 2)
+- insirindo nova linha (commit 3)
+- insirindo nova linha (commit versão-recuperada)
+- insirindo nova linha (commit versão-recuperada)
+- insirindo nova linha (commit versão-recuperada)
+ 
